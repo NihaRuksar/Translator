@@ -1,0 +1,6 @@
+{
+  "name": "Ailaysa Editor",
+  "description": "Bilingual Content Editor web view",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
