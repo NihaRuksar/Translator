@@ -7,7 +7,7 @@
 
 *Type. Translate. Publish — all in one breath.*
 
-🔗 **[Try it Live →](benevolent-klepon-cd5224.netlify.app)**
+🔗 **[Try it Live →](https://benevolent-klepon-cd5224.netlify.app/)**
 
 </div>
 
